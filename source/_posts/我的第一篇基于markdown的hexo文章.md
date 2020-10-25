@@ -1,7 +1,7 @@
 ---
 title: 我的第一篇基于markdown的hexo文章
 date: 2020-10-07 22:36:01
-tags: 测试
+tags: markdown语法
 ---
 
 大费周折实现了自己的博客，现在要用markdown推一篇博客上去，因为对markdown的不熟悉，暂且写一个笔记吧。
